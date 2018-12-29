@@ -1,4 +1,4 @@
-The goal of this project was to see if stocks actually correlate regarding to their price movement.(Experience at the time:1 month of coding in python)
+(Experience at the time:1 month of coding in python)
 
 Hypothesis:
 -
